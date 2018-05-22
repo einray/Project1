@@ -1,0 +1,7 @@
+<Cache>
+  <Project configuration="" />
+  <DesignComponents>
+    <DesignComponent id="Automator-8D599807A478460" className="Automation1" type="Automation" isPublic="True" screenShots="" />
+    <DesignComponent id="WindowsAdapter-8D5BF72AEBAE188" className="OCR" type="Adapter" isPublic="True" screenShots="" />
+  </DesignComponents>
+</Cache>
